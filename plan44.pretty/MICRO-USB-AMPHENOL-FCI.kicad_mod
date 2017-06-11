@@ -1,4 +1,4 @@
-(module plan44:MICRO-USB-AMPHENOL-FCI (layer F.Cu) (tedit 5813179B)
+(module MICRO-USB-AMPHENOL-FCI (layer F.Cu) (tedit 5813179B)
   (descr "MICRO USB 5 TYPE B - 5 POL")
   (tags "MICRO USB 5 TYPE B - 5 POL")
   (attr smd)

@@ -1,4 +1,4 @@
-(module plan44:Touchpad_12x20_with_LED (layer F.Cu) (tedit 57FFA6BA)
+(module Touchpad_12x20_with_LED (layer F.Cu) (tedit 57FFA6BA)
   (descr "Mesurement Point, Round, SMD Pad, DM 3mm,")
   (tags "Mesurement Point Round SMD Pad 3mm")
   (attr virtual)

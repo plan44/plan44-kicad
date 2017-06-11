@@ -1,4 +1,4 @@
-(module plan44:2X13 (layer F.Cu) (tedit 581317E2)
+(module 2X13 (layer F.Cu) (tedit 581317E2)
   (descr "PIN HEADER")
   (tags "PIN HEADER")
   (attr virtual)

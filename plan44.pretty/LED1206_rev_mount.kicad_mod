@@ -1,4 +1,4 @@
-(module plan44:LED1206_rev_mount (layer F.Cu) (tedit 57FF83A8)
+(module LED1206_rev_mount (layer F.Cu) (tedit 57FF83A8)
   (tags LED)
   (fp_text reference D1 (at 3.8 0) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

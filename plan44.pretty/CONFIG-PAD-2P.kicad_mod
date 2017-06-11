@@ -1,4 +1,4 @@
-(module plan44:CONFIG-PAD-2P (layer F.Cu) (tedit 57FF90FF)
+(module CONFIG-PAD-2P (layer F.Cu) (tedit 57FF90FF)
   (fp_text reference P3 (at 0 1.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
