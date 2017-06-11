@@ -1,4 +1,4 @@
-(module plan44-ONION-OMEGA (layer F.Cu) (tedit 581313E0)
+(module plan44:ONION-OMEGA (layer F.Cu) (tedit 581313E0)
   (descr "FOOTPRINT FOR ONION OMEGA")
   (tags "FOOTPRINT FOR ONION OMEGA")
   (attr virtual)

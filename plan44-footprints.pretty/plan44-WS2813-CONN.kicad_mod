@@ -1,4 +1,4 @@
-(module plan44-WS2813-CONN (layer F.Cu) (tedit 57FE3506)
+(module plan44:WS2813-CONN (layer F.Cu) (tedit 57FE3506)
   (descr WS2813-CONN)
   (tags WS2813-CONN)
   (attr virtual)

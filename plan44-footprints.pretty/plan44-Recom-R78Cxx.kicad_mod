@@ -1,4 +1,4 @@
-(module plan44-Recom-R78Cxx (layer F.Cu) (tedit 581323FC)
+(module plan44:Recom-R78Cxx (layer F.Cu) (tedit 581323FC)
   (descr "Recom R-78HBxx.0.5")
   (tags "Recom DCDC R-78")
   (fp_text reference U2 (at -0.4 5.6) (layer F.SilkS)

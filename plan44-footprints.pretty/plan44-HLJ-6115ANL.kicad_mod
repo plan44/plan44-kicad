@@ -1,4 +1,4 @@
-(module plan44-HLJ-6115ANL (layer F.Cu) (tedit 581B6BD3)
+(module plan44:HLJ-6115ANL (layer F.Cu) (tedit 581B6BD3)
   (descr "ETHERNET CONNECTOR (MAGJACK) FOR POE")
   (tags "ETHERNET CONNECTOR (MAGJACK) FOR POE")
   (attr virtual)
