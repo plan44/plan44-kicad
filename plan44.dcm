@@ -5,4 +5,14 @@ D Quad buffer 3 State out
 K TTL buffer 3State
 $ENDCMP
 #
+$CMP Conn_02x15_Omega2_Dock
+D Generic connector, double row, 02x16, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP L6201PS
+D SGS Thomson Microelectronic - DMOS FULL BRIDGE DRIVER
+$ENDCMP
+#
 #End Doc Library

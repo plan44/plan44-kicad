@@ -1,7 +1,7 @@
-(module DB9-MALE-20x30mm (layer F.Cu) (tedit 591A03FB)
+(module DB9-MALE-20x30mm (layer F.Cu) (tedit 5DDE84BF)
   (descr "Connecteur DB9 male couche")
   (tags "CONN DB9")
-  (fp_text reference J3 (at -5.3 -9.3) (layer F.SilkS)
+  (fp_text reference REF** (at -5.3 -9.3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value DB9-MALE-20x30mm (at -5.3 -4.5) (layer F.Fab)
@@ -38,7 +38,7 @@
   (pad 7 thru_hole circle (at -4.19 -2.54) (size 1.52 1.52) (drill 1.02) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at -1.4 -2.54) (size 1.52 1.52) (drill 1.02) (layers *.Cu *.Mask))
   (model Connectors.3dshapes/DB9MC.wrl
-    (at (xyz -0.22 0.05 0))
+    (offset (xyz -5.58799991607666 1.269999980926514 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
