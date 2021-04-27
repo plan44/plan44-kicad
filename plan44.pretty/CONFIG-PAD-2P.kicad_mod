@@ -1,10 +1,12 @@
-(module CONFIG-PAD-2P (layer F.Cu) (tedit 5B79C11C)
-  (fp_text reference P5 (at -1.864 0.178 90) (layer F.SilkS)
+(module CONFIG-PAD-2P (layer F.Cu) (tedit 5FC91CB0)
+  (fp_text reference P5 (at -1.864 0.178 90) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value CONN_01X02 (at 0 -1.55) (layer F.Fab) hide
-    (effects (font (size 0.5 0.5) (thickness 0.1)))
+  (fp_text value Purpose (at -0.05 5.85 270 unlocked) (layer F.SilkS)
+    (effects (font (size 1.6 1.6) (thickness 0.3)))
   )
-  (pad 2 smd rect (at 0.55 0) (size 1 2) (layers F.Cu F.Mask))
-  (pad 1 smd rect (at -0.55 0) (size 1 2) (layers F.Cu F.Mask))
+  (pad 2 smd rect (at 0.95 0) (size 1 2) (drill (offset -0.4 0)) (layers F.Cu F.Mask)
+    (clearance 0.09))
+  (pad 1 smd rect (at -0.95 0) (size 1 2) (drill (offset 0.4 0)) (layers F.Cu F.Mask)
+    (clearance 0.09))
 )
