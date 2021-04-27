@@ -13,6 +13,7 @@ $ENDCMP
 #
 $CMP L6201PS
 D SGS Thomson Microelectronic - DMOS FULL BRIDGE DRIVER
+F https://www.mouser.ch/datasheet/2/389/cd00000089-1795323.pdf
 $ENDCMP
 #
 #End Doc Library
