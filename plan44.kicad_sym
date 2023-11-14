@@ -5675,6 +5675,32 @@
     (property "ki_fp_filters" "*2X13*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (symbol "P44-EXPANSION-26_0_1"
+      (polyline
+        (pts
+          (xy -2.54 -8.89)
+          (xy 3.81 -8.89)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.27 -3.81)
+          (xy 3.81 -3.81)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.27 13.97)
+          (xy 3.81 13.97)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
     (symbol "P44-EXPANSION-26_1_0"
       (polyline
         (pts
@@ -5710,6 +5736,9 @@
       )
     )
     (symbol "P44-EXPANSION-26_1_1"
+      (text "P44-O2-MB" (at -10.795 23.495 0)
+        (effects (font (size 1.27 1.27)))
+      )
       (pin passive line (at -30.48 22.86 0) (length 5.08)
         (name "VDD33-1" (effects (font (size 1.016 1.016))))
         (number "1" (effects (font (size 1.016 1.016))))
@@ -5767,7 +5796,7 @@
         (number "21" (effects (font (size 1.016 1.016))))
       )
       (pin passive line (at 10.16 -2.54 180) (length 5.08)
-        (name "GPIO1-I2S-PCM" (effects (font (size 1.016 1.016))))
+        (name "GPIO1-I2S-PCM[DT=0!]" (effects (font (size 1.016 1.016))))
         (number "22" (effects (font (size 1.016 1.016))))
       )
       (pin passive line (at -30.48 -5.08 0) (length 5.08)
@@ -5783,7 +5812,7 @@
         (number "25" (effects (font (size 1.016 1.016))))
       )
       (pin passive line (at 10.16 -7.62 180) (length 5.08)
-        (name "GPIO6-SPICS1" (effects (font (size 1.016 1.016))))
+        (name "GPIO6-SPICS1[CM0=0!]" (effects (font (size 1.016 1.016))))
         (number "26" (effects (font (size 1.016 1.016))))
       )
       (pin passive line (at -30.48 20.32 0) (length 5.08)
@@ -5807,7 +5836,7 @@
         (number "7" (effects (font (size 1.016 1.016))))
       )
       (pin passive line (at 10.16 15.24 180) (length 5.08)
-        (name "GPIO45-PWM0-UART1-TX" (effects (font (size 1.016 1.016))))
+        (name "GPIO45-PWM0-U1TX[JT=1!]" (effects (font (size 1.016 1.016))))
         (number "8" (effects (font (size 1.016 1.016))))
       )
       (pin passive line (at -30.48 12.7 0) (length 5.08)
